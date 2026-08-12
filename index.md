@@ -1,1 +1,1 @@
-# A fabulous Earth Data Science Portfolio
+# A Fabulous Earth Data Science Portfolio
